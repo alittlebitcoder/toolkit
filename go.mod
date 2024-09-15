@@ -1,3 +1,3 @@
-module https://github.com/alittlebitcoder/toolkit
+module github.com/alittlebitcoder/toolkit
 
 go 1.22
